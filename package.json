@@ -1,0 +1,16 @@
+{
+  "name": "interactly-res-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "mysql2": "^3.2.0"
+  }
+}
